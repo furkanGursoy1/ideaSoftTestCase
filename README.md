@@ -1,1 +1,1 @@
-/Users/Furkan.Gursoy/IdeaProjects/ideaTestCase/src/test/java/Runner/CukesRunner.java veya /Users/Furkan.Gursoy/IdeaProjects/ideaTestCase/src/test/resources/features/sepeteUrunEkleme.feature üzerinden senaryoyu run edebilirsiniz.
+src/test/java/Runner/CukesRunner.java veya src/test/resources/features/sepeteUrunEkleme.feature üzerinden senaryoyu run edebilirsiniz.
